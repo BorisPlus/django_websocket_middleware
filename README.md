@@ -1,4 +1,4 @@
-# Django - WebSocker
+# Django - WebSocket - Middleware
 
 ![](./README.files/demo.png)
 
